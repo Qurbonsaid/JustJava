@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Qoplamalar</string>
+    <string name="thank_you">Rahmat!</string>
+    <string name="name">Ism</string>
+    <string name="whipped_cream">Ko\'pirtirilgan krem</string>
+    <string name="chocolate">Shokolad</string>
+    <string name="quantity">Miqdor</string>
+    <string name="order">Buyurtma</string>
+    <string name="order_summary_quantity">Miqdori: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">Jami narxi: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="subject"><xliff:g id="name" example="Ali">%s</xliff:g> uchun Just Java buyurtmasi</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="order_summary_name">Ism: <xliff:g id="name" example="Ali">%s</xliff:g></string>
+    <string name="decrement_error_message">Sizda 1 tadan kam kofe bo\'lishi mumkin emas</string>
+    <string name="increment_error_message">Sizda 100 tadan ko\'p kofe bo\'lishi mumkin emas</string>
+    <string name="display_quantity"><xliff:g id="numberOfCoffees" example="2">%d</xliff:g></string>
+    <string name="name_error_message">Ism sohasi bo\'sh</string>
+    <string name="order_summary_whipped_cream">Ko\'pirtirilgan qaymoq qo\'shing</string>
+    <string name="order_summary_not_whipped_cream">Ko\'pirtirilgan qaymoq qo\'shmang</string>
+    <string name="order_summary_chocolate">Shokolad qo\'shing</string>
+    <string name="order_summary_not_chocolate">Shokolad qo\'shmang</string>
+</resources>
